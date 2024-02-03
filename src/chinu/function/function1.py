@@ -1,2 +1,2 @@
 def myfun():
-    print ("Welcome to Discussion & Learning")
+    print ("Welcome to Discussion")

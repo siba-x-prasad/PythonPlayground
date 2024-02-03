@@ -1,0 +1,7 @@
+# PYTHON FUNCTIONS
+- FUNCTION 1
+    - SUBFUNCTION
+
+``` 
+MY CODE
+```

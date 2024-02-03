@@ -29,6 +29,17 @@
 
 CPython is the standard open-source implementation of Python written in C language. It is the implementation you download from python.org.
 
+## STEPS to Push Code
 
-my code
+- Create YOur Folder or File in this Repository
+- git status (Check any changes are there)
+- git add . (It will add files locally)
+- git commit -m"Your message"
+- git push
 
+## PULL
+
+- git status
+- git add .
+- git commit -m"Your message"
+- git pull
